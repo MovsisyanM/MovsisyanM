@@ -1,21 +1,17 @@
-# Welcome!
 <div align="center">
-[Movsisyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MovsisyanM&theme=dark)
+<h1 text-alight="center">Welcome</h1>
 </div>
 <div align="center">
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MovsisyanM&layout=compact&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MovsisyanM&layout=compact&theme=dark&langs_count=10"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=MovsisyanM&theme=dark&hide=prs,issues,contribs&line_height=32"></img>
 </div>
 
-<!--
-**MovsisyanM/MovsisyanM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Movsisyan&theme=dark&layout=compact"></img>
+</div>
+  
+  
+- 🔭 I’m currently working on a digit recognition project.
+- 🌱 I’m currently learning Machine Learning on DataCamp!
+- 👯 I’m looking to collaborate on data science projects!
+- 📫 How to reach me: mher@movsisyan.info
