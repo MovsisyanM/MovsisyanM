@@ -1,7 +1,10 @@
-### Hi there 👋
-
-[![Movsisyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MovsisyanM&theme=dark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MovsisyanM&layout=compact&theme=dark)]
+# Welcome!
+<div align="center">
+[Movsisyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MovsisyanM&theme=dark)
+</div>
+<div align="center">
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MovsisyanM&layout=compact&theme=dark)
+</div>
 
 <!--
 **MovsisyanM/MovsisyanM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
