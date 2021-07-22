@@ -3,20 +3,23 @@
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MovsisyanM&layout=compact&theme=dark&langs_count=10"></img>
-  <img src="https://github-readme-stats.vercel.app/api?username=MovsisyanM&theme=dark&hide=prs,issues,contribs&line_height=32"></img>
 </div>
-
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MovsisyanM&theme=dark" alt="Movsisyan" />
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Movsisyan&theme=dark&layout=compact"></img>
 </div>
- 
-  
+<div align="center">
+<a href="https://movsisyan.info/?redir=https://www.linkedin.com/in/movsisyaninfo/?src=github"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://movsisyan.info/?redir=https://www.kaggle.com/movsisyanm/?src=github"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
+<a href="https://movsisyan.info/?redir=https://www.instagram.com/movsisyan.info/?src=github"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+</div>
 
 
 - 🔭 I’m currently working on a digit recognition project.
 - 🌱 I’m currently learning Machine Learning on DataCamp!
 - 👯 I’m looking to collaborate on data science projects!
 - 📫 How to reach me: mher@movsisyan.info
-  
-  
-![pv](https://pageview.vercel.app/?github_user=MovsisyanM)
+
+<a href="https://movsisyan.info/">Visit Movsisyan.info</a>
