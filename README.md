@@ -18,7 +18,7 @@
 
 
 - 🔭 I’m currently working on a digit recognition project.
-- 🌱 I’m currently learning Machine Learning on DataCamp!
+- 🌱 I’m currently learning Geospatial Analysis on Kaggle.
 - 👯 I’m looking to collaborate on data science projects!
 - 📫 How to reach me: mher@movsisyan.info
 
