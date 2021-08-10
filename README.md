@@ -15,11 +15,14 @@
 <a href="https://movsisyan.info/?redir=https://www.kaggle.com/movsisyanm/?src=github"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
 <a href="https://movsisyan.info/?redir=https://www.instagram.com/movsisyan.info/?src=github"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </div>
-
+<div></div>
 
 - 🔭 I’m currently working on a digit recognition project.
 - 🌱 I’m currently learning Geospatial Analysis on Kaggle.
-- 👯 I’m looking to collaborate on data science projects!
+- 👥 I’m looking to collaborate on data science projects!
 - 📫 How to reach me: mher@movsisyan.info
 
-<a href="https://movsisyan.info/">Visit Movsisyan.info</a>
+<div align="center">
+<a href="https://movsisyan.info/"><h3>Visit Movsisyan.info</h3></a>
+</div>
+
