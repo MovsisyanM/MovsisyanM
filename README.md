@@ -23,6 +23,6 @@
 - 📫 How to reach me: mher@movsisyan.info
 
 <div align="center">
-<a href="https://movsisyan.info/"><h3>Visit Movsisyan.info</h3></a>
+<h3><a href="https://movsisyan.info/">Visit Movsisyan.info</a></h3>
 </div>
 
