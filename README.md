@@ -17,8 +17,7 @@
 </div>
 <div></div>
 
-- 🔭 I’m currently working on a digit recognition project.
-- 🌱 I’m currently learning Geospatial Analysis on Kaggle.
+- 🌱 I’m currently completing the Data Manipulation with Python Track on DataCamp.
 - 👥 I’m looking to collaborate on data science projects!
 - 📫 How to reach me: mher@movsisyan.info
 
