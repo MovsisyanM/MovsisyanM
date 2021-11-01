@@ -17,11 +17,10 @@
 </div>
 <div></div>
 
-- 🌱 I’m currently completing the Data Manipulation with Python Track on DataCamp.
+- 🌱 I’m currently learning NLP on DataCamp.
 - 👥 I’m looking to collaborate on data science projects!
 - 📫 How to reach me: mher@movsisyan.info
 
 <div align="center">
-<h3><a href="https://movsisyan.info/">Visit Movsisyan.info</a></h3>
+<h3><a href="https://movsisyan.info/">Visit www.Movsisyan.info</a></h3>
 </div>
-
