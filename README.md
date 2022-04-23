@@ -14,7 +14,7 @@
 </div>
 <div></div>
 
-- 🌱 I’m currently learning Data Engineering on DataCamp.
+- 🌱 I’m currently learning MLOps on Coursera.
 - 👥 I’m looking to collaborate on data science projects!
 - 📫 How to reach me: mher@movsisyan.info
 
