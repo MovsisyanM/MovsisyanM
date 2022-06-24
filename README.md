@@ -14,7 +14,7 @@
 </div>
 <div></div>
 
-- 🌱 I’m currently learning MLOps and Medical Neuroscience on Coursera.
+- 🌱 I’m currently learning about GANs and Medical Neuroscience on Coursera.
 - 👥 I’m looking to collaborate on data science projects!
 - 📫 How to reach me: mher@movsisyan.info
 
