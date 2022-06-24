@@ -2,9 +2,13 @@
 <h1 text-alight="center">Welcome</h1>
 </div>
 <div align="center">
+  <h3>Github stats:</h3>
+  <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MovsisyanM&theme=dark" alt="Movsisyan" />
 </div>
 <div align="center">
+  <h3>Free time spent sciencing:</h3>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Movsisyan&theme=dark&layout=compact"></img>
 </div>
 <div align="center">
