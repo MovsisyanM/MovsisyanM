@@ -6,11 +6,11 @@
   <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MovsisyanM&theme=dark" alt="Movsisyan" />
 </div>
-<!-- <div align="center">
+<div align="center">
   <h3>Free time spent sciencing:</h3>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Movsisyan&theme=dark&layout=compact"></img>
-</div> -->
+</div>
 <div align="center">
 <a href="https://movsisyan.info/?redir=https://www.linkedin.com/in/movsisyaninfo/?src=github"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://movsisyan.info/?redir=https://www.kaggle.com/movsisyanm/?src=github"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
@@ -18,7 +18,6 @@
 </div>
 <div></div>
 
-- 🌱 I’m currently learning about NLP and Medical Neuroscience on Coursera.
 - 👥 I’m looking to collaborate on data science projects!
 - 📫 How to reach me: mher@movsisyan.info
 
